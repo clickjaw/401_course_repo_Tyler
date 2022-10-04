@@ -1,0 +1,15 @@
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/bin/Debug/net6.0/codeAlong1
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/bin/Debug/net6.0/codeAlong1.deps.json
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/bin/Debug/net6.0/codeAlong1.runtimeconfig.json
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/bin/Debug/net6.0/codeAlong1.dll
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/bin/Debug/net6.0/codeAlong1.pdb
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.csproj.AssemblyReference.cache
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.AssemblyInfoInputs.cache
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.AssemblyInfo.cs
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.csproj.CoreCompileInputs.cache
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.dll
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/refint/codeAlong1.dll
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.pdb
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/codeAlong1.genruntimeconfig.cache
+/Users/tylermorgan/code401/LABS/401_course_repo_Tyler/codeAlong1/obj/Debug/net6.0/ref/codeAlong1.dll
